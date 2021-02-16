@@ -1,0 +1,32 @@
+{
+  "menuItem": [
+    {
+      "id": 1,
+      "link": "/",
+      "title": "home"
+    },
+    {
+      "id": 2,
+      "link": "/",
+      "title": "id"
+    },
+    {
+      "id": 3,
+      "link": "/about",
+      "title": "about"
+    },
+    {
+      "id": 4,
+      "link": "/",
+      "title": "login"
+    }
+  ],
+  "aboutPageMeta": {
+    "title": "About Page",
+    "description": "about next js page info",
+    "keywords": "bla-bla-bla"
+  },
+  "title": "About page new brand page9",
+  "text": "Lorem,  ipsum dolor sit amet consectetur adipisicing elit. Maxime dolorem unde, corporis eligendi inventore blanditiis autem natus minima quasi sunt, esse eaque! Soluta, cum tempora. Maiores numquam magnam eos culpa. unde, corporis eligendi inventore blanditiis autem natus minima quasi sunt, esse eaque! Soluta, cum tempora. Maiores numquam magnam eos culpa. unde, corporis eligendi inventore blanditiis autem natus minima quasi sunt, esse eaque! Soluta, cum tempora. Maiores numquam magnam eos culpa. unde, corporis eligendi inventore blanditiis autem natus minima quasi sunt, esse eaque! Soluta, cum tempora. Maiores numquam magnam eos culpa.",
+  "ver": 9
+}

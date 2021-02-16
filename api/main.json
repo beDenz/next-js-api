@@ -17,16 +17,21 @@
     },
     {
       "id": 4,
+      "link": "/ssr",
+      "title": "ssr"
+    },
+    {
+      "id": 5,
       "link": "/",
       "title": "login"
     }
   ],
   "mainPageMeta": {
-    "title": "Main Page",
+    "title": "SSR Page",
     "description": "main next js page info",
     "keywords": "bla-bla-bla"
   },
-  "title": "Main Page",
+  "title": "SSR Page",
   "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime dolore unde, corporis eligendi inventore blanditiis autem natus minima quasi sunt, esse eaque! Soluta, cum tempora. Maiores numquam magnam eos culpa.",
   "ver": 1
 }
