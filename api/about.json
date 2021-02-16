@@ -21,9 +21,9 @@
           "title": "login"
         }
       ],
-      "mainPageMeta": {
-        "title": "Main Page",
-        "description": "main next js page info",
+    "aboutPageMeta": {
+        "title": "About Page",
+        "description": "about next js page info",
         "keywords":"bla-bla-bla"
       }
 }
