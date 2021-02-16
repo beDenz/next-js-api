@@ -27,11 +27,11 @@
     }
   ],
   "mainPageMeta": {
-    "title": "SSR Page",
+    "title": "Main Page",
     "description": "main next js page info",
     "keywords": "bla-bla-bla"
   },
-  "title": "SSR Page",
+  "title": "Main Page",
   "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime dolore unde, corporis eligendi inventore blanditiis autem natus minima quasi sunt, esse eaque! Soluta, cum tempora. Maiores numquam magnam eos culpa.",
   "ver": 1
 }
