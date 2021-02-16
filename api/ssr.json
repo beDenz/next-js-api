@@ -26,7 +26,7 @@
       "title": "login"
     }
   ],
-  "aboutPageMeta": {
+  "ssrPageMeta": {
     "title": "SSR Page",
     "description": "SSR next js page info",
     "keywords": "bla-bla-bla"
