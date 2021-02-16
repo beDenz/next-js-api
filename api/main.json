@@ -1,29 +1,32 @@
 {
-    "menuItem": [
-        {
-          "id": 1,
-          "link": "/",
-          "title": "home"
-        },
-        {
-          "id": 2,
-          "link": "/",
-          "title": "id"
-        },
-        {
-          "id": 3,
-          "link": "/about",
-          "title": "about"
-        },
-        {
-          "id": 4,
-          "link": "/",
-          "title": "login"
-        }
-      ],
-      "mainPageMeta": {
-        "title": "Main Page",
-        "description": "main next js page info",
-        "keywords":"bla-bla-bla"
-      }
+  "menuItem": [
+    {
+      "id": 1,
+      "link": "/",
+      "title": "home"
+    },
+    {
+      "id": 2,
+      "link": "/",
+      "title": "id"
+    },
+    {
+      "id": 3,
+      "link": "/about",
+      "title": "about"
+    },
+    {
+      "id": 4,
+      "link": "/",
+      "title": "login"
+    }
+  ],
+  "mainPageMeta": {
+    "title": "Main Page",
+    "description": "main next js page info",
+    "keywords": "bla-bla-bla"
+  },
+  "title": "Main Page",
+  "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime dolore unde, corporis eligendi inventore blanditiis autem natus minima quasi sunt, esse eaque! Soluta, cum tempora. Maiores numquam magnam eos culpa.",
+  "ver": 1
 }
