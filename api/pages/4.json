@@ -26,12 +26,14 @@
       "title": "login"
     }
   ],
-  "mainPageMeta": {
-    "title": "Main Page",
-    "description": "main next js page info",
-    "keywords": "bla-bla-bla"
+
+  "meta": {
+    "title": "Page 1 title",
+    "description": "Page 1 description",
+    "keywords": "page 1 page 1 page 1"
   },
-  "title": "Main Page",
-  "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime dolore unde, corporis eligendi inventore blanditiis autem natus minima quasi sunt, esse eaque! Soluta, cum tempora. Maiores numquam magnam eos culpa.",
-  "ver": 1
+
+  "title": "Page #1",
+
+  "ver": "1"
 }
