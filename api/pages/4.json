@@ -1,5 +1,5 @@
 {
-  "menuItem": [
+  "menu": [
     {
       "id": 1,
       "link": "/",
@@ -26,14 +26,11 @@
       "title": "login"
     }
   ],
-
   "meta": {
     "title": "Page 4 title",
     "description": "Page 4 description",
     "keywords": "page 4 page 4 page 4"
   },
-
   "title": "Page #4",
-
   "ver": "4"
 }
