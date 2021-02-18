@@ -1,5 +1,5 @@
 {
-  "menuItem": [
+  "menu": [
     {
       "id": 1,
       "link": "/",
@@ -26,7 +26,7 @@
       "title": "login"
     }
   ],
-  "aboutPageMeta": {
+  "meta": {
     "title": "About Page",
     "description": "about next js page info",
     "keywords": "bla-bla-bla"

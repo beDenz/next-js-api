@@ -1,5 +1,5 @@
 {
-  "menuItem": [
+  "menu": [
     {
       "id": 1,
       "link": "/",
@@ -53,7 +53,7 @@
       "title": "/pages/5"
     }
   ],
-  "pagesPageMeta": {
+  "meta": {
     "title": "Pages Page",
     "description": "pages next js page info",
     "keywords": "bla bla bla"

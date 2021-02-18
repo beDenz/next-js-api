@@ -1,5 +1,5 @@
 {
-  "menuItem": [
+  "menu": [
     {
       "id": 1,
       "link": "/",
@@ -26,7 +26,7 @@
       "title": "login"
     }
   ],
-  "mainPageMeta": {
+  "meta": {
     "title": "Main Page",
     "description": "main next js page info",
     "keywords": "bla-bla-bla"
